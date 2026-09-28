@@ -37,7 +37,7 @@ The local parser understands floor names, AC requirements, team size, and durati
 The page has no build step or dependencies.
 
 ```bash
-python3 -m http.server 4173
+python -m http.server 4173
 ```
 
 Open:
